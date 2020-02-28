@@ -9,3 +9,5 @@ And another friend for kaylee, whose name is JAson, and he also got the permissi
 Shreyans Saraogi: 
 A friend of Kaylee, Shrey got the permission to add something to the story- so he just thought about what to wirte in the story and he wasted hours doing that.
 
+Bon realize that they don't have to write their name with the part they add, so he decided to tell the others:"Hey, we don't need to add our name in the text because the commit history shows who did what already!"
+Bon also write this part because he forgot that he should not name his commit "first paragraph"
